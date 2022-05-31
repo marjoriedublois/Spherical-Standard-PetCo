@@ -1,2 +1,2 @@
-# Spherical-Standard-PetCo
+# SPHERICAL-STANDARD-PetCo
  Face-to-Face-Activity
